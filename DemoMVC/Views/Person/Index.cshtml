@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Index";
+
+}
+<h2>trien</h2>
+<p>Hello from our View Template</p>
+<h1>Dữ liệu trả về là:@ViewBag.inforPerson
+</h1>
+<form asp-action="Index">
+    <label>nhập PesonID</label>
+    <input type="text" name="PersonID">
+    <label>nhập họ tên:</label>
+    <input type="text" name="Fullname">
+    <label>nhập địa chỉ:</label>
+    <input type="text" name="Address">
+    <input type="submit" value="gửi dữ liệu">
+    
+
+</form>
