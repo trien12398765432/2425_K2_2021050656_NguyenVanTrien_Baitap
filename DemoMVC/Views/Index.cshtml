@@ -1,0 +1,25 @@
+// View: Index.cshtml
+@{
+    ViewData["Title"] = "Tính chỉ số BMI";
+}
+
+<h2>Tính chỉ số BMI</h2>
+<form method="post">
+    <label for="height">Chiều cao (m):</label>
+    <input type="text" id="Chiều cao" name="Chiều caocao" required />
+    <br />
+    <label for="weight">Cân nặng (kg):</label>
+    <input type="text" id="Cân nặng" name="Chiều cao" required />
+    <br />
+    <button type="submit">Tính BMI</button>
+</form>
+
+@if (ViewBag.BMI != null)
+{
+    <h3>Kết quả:</h3>
+    <p>Chỉ số BMI: @ViewBag.BMI</p>
+    <p>Phân loại: @ViewBag.Category</p>
+} BMIModel
+{
+    
+}

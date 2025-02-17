@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj": {}
+    "c:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj": {
+    "c:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj",
+        "projectUniqueName": "c:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj",
         "projectName": "NguyenVanTrien",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj",
+        "projectPath": "c:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\obj\\",
+        "outputPath": "c:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
