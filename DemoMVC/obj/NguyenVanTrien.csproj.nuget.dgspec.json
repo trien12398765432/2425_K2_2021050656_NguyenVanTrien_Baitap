@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj": {
+    "C:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj",
         "projectName": "NguyenVanTrien",
-        "projectPath": "c:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\NguyenVanTrien.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\2425_K2_2021050656_NguyenVanTrien\\DemoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,32 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
